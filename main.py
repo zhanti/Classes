@@ -6,3 +6,4 @@ student.name = "Жантемир"
 student.surname = "Касенгали"
 student.age = 14
 student.showInfo()
+print("end")
